@@ -154,7 +154,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>Here is something that you can talk about:  Both you and the {0} have edited documents recently related to "Supply Chain effeciency"
+    <value>Here is something that you can talk about:  Both of you have edited documents recently related to "Supply Chain effeciency"
 </value>
     <comment>Second part of the match up card main content</comment>
   </data>
